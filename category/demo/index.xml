@@ -1,94 +1,212 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Demo | Academic</title>
-    <link>https://example.com/category/demo/</link>
-      <atom:link href="https://example.com/category/demo/index.xml" rel="self" type="application/rss+xml" />
+    <title>Demo | Khamdamova.A.A</title>
+    <link>https://aizhanakhamdamova.github.io/category/demo/</link>
+      <atom:link href="https://aizhanakhamdamova.github.io/category/demo/index.xml" rel="self" type="application/rss+xml" />
     <description>Demo</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 08 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://aizhanakhamdamova.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Demo</title>
-      <link>https://example.com/category/demo/</link>
+      <link>https://aizhanakhamdamova.github.io/category/demo/</link>
     </image>
     
     <item>
-      <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://example.com/post/getting-started/</link>
-      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/getting-started/</guid>
-      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
-&lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;a href=&#34;https://wowchemy.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
+      <title>Programming languages</title>
+      <link>https://aizhanakhamdamova.github.io/post/post5/</link>
+      <pubDate>Mon, 08 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://aizhanakhamdamova.github.io/post/post5/</guid>
+      <description>&lt;p&gt;##Today there are hundreds of programming languages ​​in the world - how to choose the most suitable one for learning among them? We publish a list of the 20 most popular options. The list is based on the TIOBE, Google Trends and StackOverflow Trends indexes, languages ​​are in alphabetical order.&lt;/p&gt;
+&lt;p&gt;##bash
+Unix shell scripting, created by Ken Thompson in the early 1970s, is closely related to the C programming language. Bash, an updated Unix shell, was first released in the late 80s and is still under active development. Bash is typically scripted for server configuration, so it&amp;rsquo;s a good choice for modern cloud environments with containerized storage and microservices. Shell scripts are used quite often, so knowledge of this language is useful. You should also pay attention to zsh, which is currently the default shell in macOS. Applications: server administration, command line interface tools, DevOps, virtualization.&lt;/p&gt;
+&lt;p&gt;##COBOL
+One of the oldest languages ​​still in use today was created by Grace Hopper in the late 1950s and was intended to standardize the development of large-scale business applications on computers. A brilliant concept that is still used today in cross-platform SDKs. An incredible 95% of ATM transactions go through COBOL systems, with many of these devices operating 24 hours a day, 365 days a year. Device vendors such as IBM develop more powerful COBOL machines but continue to maintain and upgrade existing systems due to the cost and risk of replacing them. COBOL isn&amp;rsquo;t going anywhere anytime soon. This is a good choice for those who want to work with clients from the financial sector.&lt;/p&gt;
+&lt;p&gt;##C/C++&lt;/p&gt;
+&lt;p&gt;These languages ​​often occupy the top of various ratings - they are valued for their power and speed. C was created in the early 1970s by Dennis Ritchie, C++ was developed by Bjorn Stroustrup in 1985. Today, these two languages ​​underpin everything from operating systems and games to modern scientific computing and machine learning. C and C++ are well suited for demanding applications that value low-level hardware access and performance. Learning these languages ​​takes time and effort.
+Scope: OS / SDK development, embedded devices, game engines, science.
+Five programming languages ​​for beginners&lt;/p&gt;
+&lt;p&gt;C#, released by Microsoft in 2000, was developed by Anders Hejlsberg as a cross-platform object-oriented programming language. It is now often used to develop business applications, APIs, games, and more. Due to its wide feature set, this language is suitable for graphics and other asynchronous programming tasks.
+Applications: corporate applications, software and user interface development, games, graphics.&lt;/p&gt;
+&lt;p&gt;##Dart&lt;/p&gt;
+&lt;p&gt;A modern language developed by Google for building mobile, desktop, web and server applications. Its creator Lars Bak also came up with the JavaSript Engine V8. Dart resembles other modern object-oriented programming languages ​​−
+C#, TypeScript, and Java - and provides a rich set of features suitable for defining complex interactions, asynchronous operations, animations, and more.
+Applications: cross-platform applications, cloud services / enterprise systems, games, graphics.
+Fortran
+Fortran, developed at IBM in the 1950s by John Backus, is a general-purpose language that was created for scientific and engineering work. It is still widely used for these purposes, including benchmark testing of the world&amp;rsquo;s fastest supercomputers. It has also been applied in space and physics research and weather modeling.
+Applications: aerospace/defense, scientific computing, numerical analysis.&lt;/p&gt;
+&lt;p&gt;##Java
+Java is a general-purpose OOP language developed in the 1990s by James Gosling at Sun (now owned by Oracle) and designed to be compiled into bytecode to run on the Java Virtual Machine. By 2020, this includes almost every kind of device, from TVs and game consoles to servers, phones and even kitchen appliances. The language is widely used in corporations and universities, which has made it popular among both novice programmers and experienced developers.
+Applications: enterprise applications, embedded systems, web services, games.&lt;/p&gt;
+&lt;p&gt;##JavaScript
+JavaScript was developed by Brandon Eich in the 1990s to add scripting to websites. Today it is a universal web interface language with powerful, standardized features that are supported by all major browsers. JavaScript conforms to the EcmaScript standard, which is updated every few years with new language specifications. In addition, JavaScript is often used to develop back-end services and APIs, mobile applications, games, and other software. This is an excellent choice for learning and further improvement.
+Области применения: фулстэк-разработка, облачные сервисы / контейнерное хранение, игры, утилиты.
+##Julia
+A modern high-level language designed for high-performance numerical processing and statistical analysis. Julia was developed in 2009 by Jeff Besanson, Stefan Karpinski, Viral B. Shah and Alan Edelman. It is one of four languages ​​that can achieve petaflops of supercomputing performance (along with C, C++, and Fortran). Popular with universities, governments and financial institutions.
+Applications: financial analysis, mathematical research, scientific computing.&lt;/p&gt;
+&lt;p&gt;##Kotlin
+Kotlin, designed to interact with Java, is equipped with functional programming capabilities and OOP functions, including working with lambda expressions, operator overloading, and so on. In 2019, Google named Kotlin the preferred language for Android development, so it is definitely worth studying for those who plan to create Android applications and plugins for popular SDKs.
+Areas of application: Android applications, server-side development, as well as all areas where Java is used.
+##Lisp
+Lisp is a group of languages related to the historical implementation of LISP, which was developed at MIT in the 1950s to describe programs in a mathematical way. The syntax in Lisp is based on s-expressions — this distinguishes it from most other languages, many of which are related to or influenced by C. Lisp was popular in early AI research and was widely used as a scripting language for CAD and other engineering applications, as it perceives code as data and allows you to customize the language using macros, which distinguishes it from more static languages. Among the well—known applications based on it are AutoLISP (script for AutoCAD) and Roomba. One of the languages of the family, Clojure, is especially convenient for creating large-scale applications for business and the Internet.
+Applications: artificial intelligence, robotics, scripting, language extensions, research, development.
+##Lua
+Lua was developed in 1993 by Roberto Hieruzalimski for embedding into other applications. It is now widely used as a scripting language for adding new functions to programs. For example, it can be used to supplement the description of game logic in the development of video games or to expand the set of user functions in graphical applications.
+Applications: software extensions, game logic, automation, electronics / Internet of Things.&lt;/p&gt;
+&lt;p&gt;##PowerShell
+PowerShell was developed by Microsoft in 2006 to provide Unix-like command-line interface features in Windows. It was later released open source and ported to macOS, CentOS and Ubuntu. PowerShell is widely used in systems using Windows Server and other Microsoft technologies: it makes administration more convenient and reduces maintenance costs.
+Areas of application: Windows system administration, command line interface, scripts, maintenance.&lt;/p&gt;
+&lt;p&gt;##Python
+Python, introduced in 1991 by Guido van Rossum, was conceived as a well-readable language with OOP functions, involving the use of functional paradigms to build clean and well-organized programs. Python is supported by large platforms and is used in a variety of fields, including science, intelligent data processing, the development of artificial intelligence systems, computer graphics for feature films, cloud computing, game development and many others. Python has proven itself well and will remain one of the most sought-after tools for a long time.
+Applications: artificial intelligence / machine learning, intelligent data processing, cloud services / web, media, scripts.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Пост о прошедшей неделе №5</title>
+      <link>https://aizhanakhamdamova.github.io/post/post6/post/</link>
+      <pubDate>Mon, 08 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://aizhanakhamdamova.github.io/post/post6/post/</guid>
+      <description>&lt;h1 id=&#34;goals-for-the-week&#34;&gt;Goals for the week&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;👉 &lt;a href=&#34;https://wowchemy.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;📚 &lt;a href=&#34;https://wowchemy.com/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Personalize your site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💬 &lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;Wowchemy community&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/wowchemy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@wowchemy&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%23MadeWithWowchemy&amp;amp;src=typed_query&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithWowchemy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💡 &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-themes/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt; for &lt;em&gt;Wowchemy&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;⬆️ &lt;strong&gt;Updating Wowchemy?&lt;/strong&gt; View the &lt;a href=&#34;https://wowchemy.com/docs/hugo-tutorials/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Tutorial&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Complete all dz in subjects&lt;/li&gt;
+&lt;li&gt;Write a test paper on math analysis&lt;/li&gt;
+&lt;li&gt;Write a report on analytical geometry&lt;/li&gt;
+&lt;li&gt;Pass lab2 in c++&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
-&lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
-&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpswowchemycomsponsor&#34;&gt;&lt;a href=&#34;https://wowchemy.com/sponsor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href=&#34;https://wowchemy.com/sponsor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+&lt;h2 id=&#34;whats-new&#34;&gt;What&amp;rsquo;s new?&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/wowchemy/hugo-academic-cli&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Academic CLI&lt;/a&gt;:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
+&lt;li&gt;Stretching in the morning&lt;/li&gt;
+&lt;li&gt;I bought a subscription&lt;/li&gt;
+&lt;li&gt;Started listening to podcasts in English regularly&lt;/li&gt;
+&lt;li&gt;Lessons in c++&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://wowchemy.com/user-stories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
-&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;h2 id=&#34;rating-of-the-week&#34;&gt;Rating of the week&lt;/h2&gt;
+&lt;p&gt;9/10&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Post</title>
+      <link>https://aizhanakhamdamova.github.io/post/lasweek/post2/</link>
+      <pubDate>Sun, 23 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://aizhanakhamdamova.github.io/post/lasweek/post2/</guid>
+      <description>&lt;h1 id=&#34;goals-for-the-week&#34;&gt;Goals for the week&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://wowchemy.com/docs/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://wowchemy.com/docs/import/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://wowchemy.com/docs/install-locally/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://wowchemy.com/docs/customization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 34+ language packs including English, 中文, and Português&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
+&lt;li&gt;Complete all dz in subjects&lt;/li&gt;
+&lt;li&gt;Write a math analysis test&lt;/li&gt;
+&lt;li&gt;Complete the &amp;ldquo;Growth Thinking&amp;rdquo; course&lt;/li&gt;
+&lt;li&gt;Go to the university for the night&lt;/li&gt;
+&lt;li&gt;Take a lesson in C++&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
-&lt;p&gt;Wowchemy and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/customization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
-&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
-&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+&lt;h2 id=&#34;whats-new&#34;&gt;What&amp;rsquo;s new?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Stretching in the morning&lt;/li&gt;
+&lt;li&gt;Started listening to podcasts in English regularly&lt;/li&gt;
+&lt;li&gt;C++ lessons&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;rating-of-the-week&#34;&gt;Rating of the week&lt;/h2&gt;
+&lt;p&gt;9/10&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to write an report</title>
+      <link>https://aizhanakhamdamova.github.io/post/post4/</link>
+      <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://aizhanakhamdamova.github.io/post/post4/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;##General information
+Report design
+General layout of the report
+Decor. Report. Structure.
+The R&amp;amp;D report must be made by any printing method on a typewriter or using a computer and a printer on one side of a sheet of A4 white paper at one and a half intervals.&lt;/p&gt;
+&lt;p&gt;Pages of the report should be numbered with Arabic numerals, following continuous numbering throughout the text of the report. The page number is placed in the center of the bottom of the sheet without a dot. The title page is included in the overall page numbering of the report. The page number on the title page is not affixed.&lt;/p&gt;
+&lt;p&gt;The font color must be black, the height of letters, numbers and other characters - at least 1.8 mm (point size at least 12). Bold font is not used.&lt;/p&gt;
+&lt;p&gt;The text of the report should be printed observing the following margins: right - at least 10 mm, top and bottom - at least 20 mm, left - at least 30 mm.&lt;/p&gt;
+&lt;p&gt;The title page is the first page of the research report and serves as a source of information necessary for processing and searching for the document. The title page must contain the city and year of issue of the work.&lt;/p&gt;
+&lt;p&gt;The approximate volume of the thesis is 50-60 pages of typewritten text, term paper - at least 20 pages.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://aizhanakhamdamova.github.io/post/post2/</link>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://aizhanakhamdamova.github.io/post/post2/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;##General information&lt;/p&gt;
+&lt;h2 id=&#34;what-is-a-markup-language&#34;&gt;What is a &amp;ldquo;markup language&amp;rdquo;?&lt;/h2&gt;
+&lt;p&gt;A markup language is a set of codes that, when applied to plain text, allows you to add one or more of the following properties (among others):
+Define Text
+Structure text
+Describe text layout
+Decorate text
+Designed to easily and quickly add formatting to text data.
+##Peculiarities:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Minimum of functions.&lt;/li&gt;
+&lt;li&gt;A small set of supported tags.&lt;/li&gt;
+&lt;li&gt;Easy to learn.&lt;/li&gt;
+&lt;li&gt;The source text in this language is read with the same ease as the finished document.
+##Representatives&lt;/li&gt;
+&lt;li&gt;Markdown
+*Org-mode&lt;/li&gt;
+&lt;li&gt;BBCode&lt;/li&gt;
+&lt;li&gt;reStructuredText&lt;/li&gt;
+&lt;li&gt;Textile&lt;/li&gt;
+&lt;li&gt;Wiki markup&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;lightweight-languages-for-writing-mathematical-expressions&#34;&gt;Lightweight languages ​​for writing mathematical expressions&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;AsciiMath&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Last week post</title>
+      <link>https://aizhanakhamdamova.github.io/post/post1/</link>
+      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://aizhanakhamdamova.github.io/post/post1/</guid>
+      <description>&lt;h1 id=&#34;goals-for-the-week&#34;&gt;Goals for the week&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Complete all dz in subjects&lt;/li&gt;
+&lt;li&gt;visit a friend&lt;/li&gt;
+&lt;li&gt;Don&amp;rsquo;t skip fitness&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;whats-new&#34;&gt;What&amp;rsquo;s new?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Restored sleep mode&lt;/li&gt;
+&lt;li&gt;Started listening to podcasts in English regularly&lt;/li&gt;
+&lt;li&gt;Finished reading the book &amp;ldquo;Ten Little Indians&amp;rdquo; by Agatha Christie&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;rating-of-the-week&#34;&gt;Rating of the week&lt;/h2&gt;
+&lt;p&gt;5/10&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Last week post</title>
+      <link>https://aizhanakhamdamova.github.io/post/post3/post2/</link>
+      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://aizhanakhamdamova.github.io/post/post3/post2/</guid>
+      <description>&lt;h1 id=&#34;goals-for-the-week&#34;&gt;Goals for the week&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Complete all dz in subjects&lt;/li&gt;
+&lt;li&gt;Read a book&lt;/li&gt;
+&lt;li&gt;Don&amp;rsquo;t skip fitness&lt;/li&gt;
+&lt;li&gt;Watch the series&lt;/li&gt;
+&lt;li&gt;Start the Growth Mind course&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;whats-new&#34;&gt;What&amp;rsquo;s new?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Stretching in the morning&lt;/li&gt;
+&lt;li&gt;Started listening to podcasts in English regularly&lt;/li&gt;
+&lt;li&gt;C++ lessons&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;rating-of-the-week&#34;&gt;Rating of the week&lt;/h2&gt;
+&lt;p&gt;7/10&lt;/p&gt;
 </description>
     </item>
     
